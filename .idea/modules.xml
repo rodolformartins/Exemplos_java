@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exemplo_Excecao/Exemplo_Excecao.iml" filepath="$PROJECT_DIR$/Exemplo_Excecao/Exemplo_Excecao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Exemplos_java.iml" filepath="$PROJECT_DIR$/.idea/Exemplos_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança/Herança.iml" filepath="$PROJECT_DIR$/Herança/Herança.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
     </modules>
   </component>
